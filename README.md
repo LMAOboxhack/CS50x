@@ -1,2 +1,2 @@
 # CS50x
-Public upload of my pset solutions from CS50x.
+My CS50x pset solutions
